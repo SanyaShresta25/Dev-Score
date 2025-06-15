@@ -67,19 +67,6 @@ DevScore creates a unified developer reputation score by securely aggregating ve
 - Reduce hiring bias with objective, verified data
 - Streamline technical screening processes
 
-## 🌐 Future Roadmap
-
-- **Phase 1**: Core platforms (GitHub, LeetCode, Stack Overflow) ✅
-- **Phase 2**: Extended integrations, employer dashboard 🚧
-- **Phase 3**: Community features, networking, mentorship 📋
-- **Phase 4**: Enterprise solutions, custom scoring 📋
-
-## 📞 Connect
-
-- **Website**: [devscore.dev](https://devscore.dev)
-- **Documentation**: [docs.devscore.dev](https://docs.devscore.dev)
-- **Community**: [Discord](https://discord.gg/devscore)
-
 ---
 
 ## 👩‍💻 Author
